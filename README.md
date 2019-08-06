@@ -6,7 +6,9 @@ Welcome to the collaboration space for the Voice Program!  This Program was form
 
 ## Program Management Committee
 
-Lead: @tschady
+Lead:
+- @tschady
+
 Members:
 - @tshastry
 - @mgoldey
