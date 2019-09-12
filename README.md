@@ -37,7 +37,7 @@ Please see each individual project GitHub repo (listed in table above) to learn 
 
 ## Governance
 
-The Voice Program uses the Foundation's [standard Program Operations Policy](https://www.finos.org/hubfs/FINOS/governance/FINOS%20Default%20Program%20Operations%20Policy%202018-02-02.pdf).
+The Voice Program uses the FINOS Foundation's [Program Operations Policy](docs/Standard%20Program%20Operations%20Policy%202019-07-17.pdf).
 
 [Approved Program Proposal](docs/Voice-Program-Proposal-Exhibit-E4.pdf)
 
