@@ -14,7 +14,13 @@ Members:
 - @mgoldey
 - @vitorespindola
 
-## Projects
+## Activity
+
+This Program's Projects can be reviewed on the [Foundation's Catalogue](https://finos.github.io/?programShortName=Voice&sort=hotness-down),
+while the latest collaboration activity can be seen on the [Foundation's metrics dashboard](https://metrics.finos.org/goto/bc65d605e17482c0da9d33fa6777ab31).
+If you are interest in current focus, see each project's individual Roadmap, found on its wiki.
+
+### Projects
 
 |Name|Status|Lead|Description|
 |---|---|---|---|
@@ -36,6 +42,8 @@ This program conducts all its business over the email lists below, or on this Gi
 Please see each individual project GitHub repo (listed in table above) to learn how to contribute.
 
 ## Governance
+
+The Voice Program was approved by the Foundation's Board on 2018-02-28.
 
 The Voice Program uses the FINOS Foundation's [Program Operations Policy](docs/Standard%20Program%20Operations%20Policy%202019-07-17.pdf).
 
