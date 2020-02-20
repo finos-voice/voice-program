@@ -51,10 +51,10 @@ The Voice Program uses the FINOS Foundation's [Program Operations Policy](docs/S
 
 ## Contact
 
-Program mailing list: <voice@finos.org> (web archive)
+Program mailing list: <voice@finos.org> -- [(web archive)](https://groups.google.com/a/finos.org/forum/#!forum/voice)
 
-PMC mailing list: <voice-pmc@finos.org> (web archive)
+PMC mailing list: <voice-pmc@finos.org> -- [(web archive)](https://groups.google.com/a/finos.org/forum/#!forum/voice-pmc)
 
-PMC private mailing list: <voice-pmc-private@finos.org> (private web archive)
+PMC private mailing list: <voice-pmc-private@finos.org> -- [(private web archive)](https://groups.google.com/a/finos.org/forum/#!forum/voice-pmc-private)
 
 To join the above mailing lists please click the 'web archive' link above and then select "Join Group"
